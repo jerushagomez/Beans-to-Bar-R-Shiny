@@ -54,10 +54,19 @@ chocolates. Craft chocolates are those that are made from whole cocoa beans from
 
 ## WORK FLOW:
 * We have used R shiny to develop a dashboard to explain our findings and insights.
-* 
+* The HOME tab introduces the topic. It help you gain some insights on the various factors affecting chocolates. 
+* The FACT tab gives us a rough idea about the dataset. We have created few info boxes for the same. A bar chart is also plotted that shows the most reviewed ingredient. We have also created a bar plot to depict which is the top 5 ingredients used. The total number of ingredients that we have are 21 combinations.
+* The MAP tab shows location Distribution Across Countries and also Average Rating of Bean Origin. 
+* The fourth tab is PLOTS. Various plots like Pie chart, Bar plots, Line chart are plotted.
 
 
-
+## RESULT:
+Through the graphs seen in the dashboard, we can see: 
+* Which country is the number 1 contributor of Chocolate. 
+* Which rating scale has the highest count.
+* Which year has the best reviews.
+* Which is the most reviewed ingrident.
+* What is the percentage of cocoa that most companies use. 
 
 
 ## WEB APPLICATION OF THE PROJECT:
