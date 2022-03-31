@@ -49,7 +49,13 @@ chocolates. Craft chocolates are those that are made from whole cocoa beans from
 7. DT
 8. dplyr
 9. shinythemes
-10. 
+
+
+
+## WORK FLOW:
+* We have used R shiny to develop a dashboard to explain our findings and insights.
+* 
+
 
 
 
